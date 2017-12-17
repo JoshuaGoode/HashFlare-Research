@@ -127,4 +127,4 @@ HashFlare has recently shared multiple images on their instagram. It appears to 
 
 
 
-My BTC: 1JK3AGY3HTbWk9wZgPpmxCdvLvcpoMmZ9s
+Goode's BTC: 1JK3AGY3HTbWk9wZgPpmxCdvLvcpoMmZ9s
