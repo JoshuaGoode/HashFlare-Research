@@ -63,9 +63,11 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
 ## DATACENTER INFORMATION
  #### Specs:
   - https://hashflare.io/data-center/
+  - The specs provided on HashFlare's Datacenter page match the description and specs of http://colohub.com/
 
   #### Tours:
-  - According to this video, this is a datacenter associated with HashFlare - https://www.youtube.com/watch?v=ISd0m9R-srw
+  - According to this video, this datacenter, http://colohub.com/, is associated with HashFlare - https://www.youtube.com/watch?v=ISd0m9R-srw
+ 
 
   #### Photos:
  - https://www.instagram.com/p/BY-RT8tA78v/?taken-by=hashcoins
