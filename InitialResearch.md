@@ -82,6 +82,7 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
     (Failure to deliver mining hardware discussion included in later pages)
  - *Emercoin and Polybius are SCAM* - https://bitcointalk.org/index.php?topic=1970796.0 
  - *HashCoins* - https://en.bitcoin.it/wiki/HashCoins
+ - LinkedIn message with CEO regarding December 2017 withdraw shutdown - https://www.reddit.com/r/hashflare/comments/7kczlz/i_reached_out_to_the_ceo_of_hashflare_about/
  
   
  ## HASHCOINS/HASHFLARE DETAILED TEAM INFO
