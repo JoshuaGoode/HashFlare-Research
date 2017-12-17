@@ -82,8 +82,8 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
 
 
   #### Tours:
-  - This video tours ColoHub/BTCMEQC's facility and confirms HashFlare has miners deployed there,  - https://www.youtube.com/watch?v=ISd0m9R-srw
-  - Additional tour of ColoHub/BTCMEQC - https://www.youtube.com/watch?v=d3-5JSZxXHY
+  - Tour of ColoHub/BTCMEQC - https://www.youtube.com/watch?v=d3-5JSZxXHY
+  - This video uses the above footage of ColoHub and discusses HashFlare's operation there - https://www.youtube.com/watch?v=ISd0m9R-srw
  
 
   #### Additional Photos from HashFlare:
