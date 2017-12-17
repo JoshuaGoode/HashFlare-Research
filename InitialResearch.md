@@ -63,8 +63,11 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
 ## DATACENTER INFORMATION
  #### Specs:
   - Official information - https://hashflare.io/data-center/
+  
+ #### ColoHub/BTCMEQC
   - The specs provided on HashFlare's Datacenter page match the description and specs of http://colohub.com/
   - ColoHub, owned by  Geneseo Communications INC, is a parent company to BTCMEQC specializing in miner housing - http://www.btcmeqc.com/ - It appears they use the ColoHub facility to host operations such as HashFlare's.
+  - BTCMEQC's Facebook - https://www.facebook.com/Btcmeqc-1207240102691939/
   
 | Shared Specs        | HashFlare           | ColoHub/BTCMEQC  |
 | ------------- |:-------------:| :-----:|
@@ -75,6 +78,7 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
 
   #### Tours:
   - This video tours ColoHub/BTCMEQC's facility and confirms HashFlare has miners deployed there,  - https://www.youtube.com/watch?v=ISd0m9R-srw
+  - Additional tour of ColoHub/BTCMEQC - https://www.youtube.com/watch?v=d3-5JSZxXHY
  
 
   #### Photos:
