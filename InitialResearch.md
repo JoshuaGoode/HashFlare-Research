@@ -41,6 +41,11 @@ updates.
  - https://www.instagram.com/hashcoins/
  - https://twitter.com/PolybiusBank
  - https://www.facebook.com/projectpolybius/
+ 
+ ## OFFICIAL CHAT (TELEGRAM)
+ - https://t.me/hashflare_eng
+ - https://t.me/polybius_eng
+ - https://t.me/polybius_rus
 
 ## DATACENTER INFORMATION
  #### Specs:
