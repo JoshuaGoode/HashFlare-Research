@@ -1,3 +1,5 @@
+# Initial HashCoins/HashFlare/Polybius Research
+
 This document centralizes collected information regarding HashCoin and its sister companies. This 
 is part of an investigation into past and current business practices, management, and 
 hash capacity due to their general lack of transparency and communication.   Expect 
