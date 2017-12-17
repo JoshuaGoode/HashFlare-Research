@@ -123,4 +123,5 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
  - Andrei Veressov, Attorney, Bright Law Firm - https://ee.linkedin.com/in/andrei-veressov-b535ba21
 
 
-BTC: 1JK3AGY3HTbWk9wZgPpmxCdvLvcpoMmZ9s
+
+My BTC: 1JK3AGY3HTbWk9wZgPpmxCdvLvcpoMmZ9s
