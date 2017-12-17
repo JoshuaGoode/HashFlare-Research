@@ -30,10 +30,14 @@ updates.
  -  Registry Code: 14202836
  
  
+ 
+ 
  ## HASHCOINS/HASHFLARE TEAM INFORMATION
  - https://hashcoins.com/management
  - https://polybius.io/#team
  - https://hashflare.io/team/
+
+
 
 ## ACTIVE SOCIAL MEDIA
  - https://twitter.com/hashflare
@@ -42,10 +46,14 @@ updates.
  - https://twitter.com/PolybiusBank
  - https://www.facebook.com/projectpolybius/
  
+ 
+ 
  ## OFFICIAL CHAT (TELEGRAM)
  - https://t.me/hashflare_eng
  - https://t.me/polybius_eng
  - https://t.me/polybius_rus
+
+
 
 ## DATACENTER INFORMATION
  #### Specs:
@@ -59,6 +67,8 @@ updates.
  - https://www.instagram.com/p/BLGal6HB5KG/?taken-by=hashcoins
  - https://www.instagram.com/p/BIUk-ashYh-/?taken-by=hashcoins
  - http://bit.ly/HashFlarePics
+ 
+ 
 
 ## DISCUSSIONS/ARTICLES
  - *The Risks of Mining Bitcoin on HashFlare* - https://www.anythingcrypto.com/guides/risks-of-mining-bitcoin-on-hashflare
