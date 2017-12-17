@@ -67,7 +67,7 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
   - ColoHub, owned by  Geneseo Communications INC, is a parent company to BTCMEQC specializing in miner housing - http://www.btcmeqc.com/ - It appears they use the ColoHub facility to host operations such as HashFlare's.
   
 | Shared Specs        | HashFlare           | ColoHub/BTCMEQC  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| :-----:|
 | `POWER`     | 2MW | 2MW - Updated to 6MW |
 | `COOLING`     | Air conditioners in N+1 redundancy | 1200 Ton N+1 Chilled Water Primary-Secondary System with evaporative condenser |
 | `GENERATOR` | Diesel, 850kVA in N+1 configuration w/48 hours of fuel     |    Diesel, 850kVA in N+1 configuration w/48 hours of fuel |
