@@ -64,8 +64,8 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
  #### Specs:
   - https://hashflare.io/data-center/
 
-  #### Tour:
-  - https://www.youtube.com/watch?v=ISd0m9R-srw
+  #### Tours:
+  - According to this video, this is a datacenter associated with HashFlare - https://www.youtube.com/watch?v=ISd0m9R-srw
 
   #### Photos:
  - https://www.instagram.com/p/BY-RT8tA78v/?taken-by=hashcoins
