@@ -63,6 +63,7 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
 ## DATACENTER INFORMATION
  #### Specs:
   - Official information - https://hashflare.io/data-center/
+  - Hash Power Capabilities: `Unknown :|`
   
  #### ColoHub/BTCMEQC
  The specs provided on HashFlare's Datacenter page match the description and specs of http://colohub.com/
