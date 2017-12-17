@@ -61,7 +61,9 @@ updates.
  - http://bit.ly/HashFlarePics
 
 ## DISCUSSIONS/ARTICLES
- - https://www.anythingcrypto.com/guides/risks-of-mining-bitcoin-on-hashflare
- - https://www.scambitcoin.com/hashflare-io/
- - https://bitcointalk.org/index.php?topic=417623.0 (Failure to deliver mining hardware discussion included in later pages)
+ - *The Risks of Mining Bitcoin on HashFlare* - https://www.anythingcrypto.com/guides/risks-of-mining-bitcoin-on-hashflare
+ - *HashFlare.io Review – HashFlare’s Reputation is Plummeting* - https://www.scambitcoin.com/hashflare-io/
+ - *HashCоins - Blockchain technologies that work* - https://bitcointalk.org/index.php?topic=417623.0 
+    (Failure to deliver mining hardware discussion included in later pages)
+ - *Emercoin and Polybius are SCAM* - https://bitcointalk.org/index.php?topic=1970796.0 
 
