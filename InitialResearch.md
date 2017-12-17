@@ -88,7 +88,7 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
  
 
   #### Additional Photos from HashFlare:
-HashFlare has recently shared multiple images on their instagram. It appears to be a smaller operation from the one at ColoHub and houses what appear to be ETH miners.
+HashFlare has recently shared multiple images on their instagram. It appears to be a smaller operation from the one at ColoHub and mostly houses what appear to be ETH miners.
  - https://www.instagram.com/p/BY-RT8tA78v/?taken-by=hashcoins
  - https://www.instagram.com/p/BLGal6HB5KG/?taken-by=hashcoins
  - https://www.instagram.com/p/BIUk-ashYh-/?taken-by=hashcoins
