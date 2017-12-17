@@ -89,6 +89,6 @@ updates.
  - Pavel Tsihhotski, Support/Community Manager - https://www.linkedin.com/in/pavel-tsihhotski-6a0027142/
  - Alexandr Gromov, Chief Marketing Officer - https://www.linkedin.com/in/alexandr-gromov-89302556/
  
- -Renna Reemet, Lead Developer (Potentially now a former employee) - https://ee.linkedin.com/in/rreemet
+ - Renna Reemet, Lead Developer (May have left HashCoins based on LinkedIn) - https://ee.linkedin.com/in/rreemet
  
- -Andrei Veressov, Attorney, Bright Law Firm - https://ee.linkedin.com/in/andrei-veressov-b535ba21
+ - Andrei Veressov, Attorney, Bright Law Firm - https://ee.linkedin.com/in/andrei-veressov-b535ba21
