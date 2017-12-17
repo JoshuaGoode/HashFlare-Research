@@ -5,6 +5,8 @@ is part of an investigation into past and current business practices, management
 hash capacity due to their general lack of transparency and communication.   Expect 
 updates.
 
+Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins_hashflare_contact_history_and_data/
+
 
 ## RELATED COMPANIES
 ##### HashCoins OÜ
