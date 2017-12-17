@@ -16,7 +16,7 @@ updates.
  - Registry code: 12490015
  - VAT number: EE101711955
  - Registration data: https://www.infoproff.com/en/companies/regcard/EST2348842/12490015
- - Past legal addresses: Teaduspargi tn 8, 12618; Rännaku pst 12, 10917
+ - Past legal addresses: Teaduspargi tn 8, 12618 & Rännaku pst 12, 10917
 
  ##### HashFlare OÜ
  - https://hashcoins.com
