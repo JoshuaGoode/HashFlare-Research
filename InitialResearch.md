@@ -85,13 +85,13 @@ updates.
  
  - Ivan Turygin, Founder & Chairmain - https://ee.linkedin.com/in/ivan-turygin-b6698171
  - Sergie Potapenko, Founder & CEO - https://ee.linkedin.com/in/sergei-potapenko-81998853, https://www.facebook.com/sergei.pt
- - Nikolay Pavlovskiy, CTO - https://ee.linkedin.com/in/nrpavlovskiy/en
- - Vitali Pavlov, Chief Product Officer - https://ee.linkedin.com/in/vitali-pavlov, https://www.facebook.com/thevip7, <https://twitter.com/_7_lik>
+ - Nikolay Pavlovskiy, CTO - https://ee.linkedin.com/in/nrpavlovskiy/en, https://cryptor.net/, https://hashmachines.com
+ - Vitali Pavlov, Chief Product Officer - https://ee.linkedin.com/in/vitali-pavlov, https://www.facebook.com/thevip7, <https://twitter.com/_7_lik>, vitali@hashcoins.com
  - Edgar Bers, Public Relations / Business Development Manager - https://ee.linkedin.com/in/vitali-pavlov,  https://www.facebook.com/bers.edgar
  - Tatjana Potapova, CFO - https://ee.linkedin.com/in/tatjana-potapova
  - Pavel Tsihhotski, Support/Community Manager - https://www.linkedin.com/in/pavel-tsihhotski-6a0027142/
- - Alexandr Gromov, Chief Marketing Officer - https://www.linkedin.com/in/alexandr-gromov-89302556/
+ - Alexandr Gromov, Chief Marketing Officer - https://www.linkedin.com/in/alexandr-gromov-89302556/, sales@hashcoins.com
  
- - Renna Reemet, Lead Developer (May have left HashCoins based on LinkedIn) - https://ee.linkedin.com/in/rreemet
+ - Renna Reemet, Lead Developer (May have left HashCoins based on LinkedIn) - https://ee.linkedin.com/in/rreemet, support@hashcoins.com
  
  - Andrei Veressov, Attorney, Bright Law Firm - https://ee.linkedin.com/in/andrei-veressov-b535ba21
