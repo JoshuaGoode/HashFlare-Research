@@ -15,6 +15,8 @@ updates.
  -  Tartu maantee 43, 10128, Tallinn
  - Registry code: 12490015
  - VAT number: EE101711955
+ - Registration data: https://www.infoproff.com/en/companies/regcard/EST2348842/12490015
+ - Past legal addresses: Teaduspargi tn 8, 12618; Rännaku pst 12, 10917
 
  ##### HashFlare OÜ
  - https://hashcoins.com
@@ -85,7 +87,7 @@ updates.
  
  - Ivan Turygin, Founder & Chairmain - https://ee.linkedin.com/in/ivan-turygin-b6698171
  - Sergie Potapenko, Founder & CEO - https://ee.linkedin.com/in/sergei-potapenko-81998853, https://www.facebook.com/sergei.pt
- - Nikolay Pavlovskiy, CTO - https://ee.linkedin.com/in/nrpavlovskiy/en, https://cryptor.net/, https://hashmachines.com
+ - Nikolay Pavlovskiy, CTO - https://ee.linkedin.com/in/nrpavlovskiy/en, Owns: https://cryptor.net/ & https://hashmachines.com
  - Vitali Pavlov, Chief Product Officer - https://ee.linkedin.com/in/vitali-pavlov, https://www.facebook.com/thevip7, <https://twitter.com/_7_lik>, vitali@hashcoins.com
  - Edgar Bers, Public Relations / Business Development Manager - https://ee.linkedin.com/in/vitali-pavlov,  https://www.facebook.com/bers.edgar
  - Tatjana Potapova, CFO - https://ee.linkedin.com/in/tatjana-potapova
