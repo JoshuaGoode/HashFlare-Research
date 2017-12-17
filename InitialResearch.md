@@ -72,6 +72,7 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
   - Location: 2701 Devils Glen Road, Bettendorf Iowa, US, 52722
   - Phone: 309-944-8002
   - Email: scott.rubins@geneseo.com
+  - Older facility Blueprint from 2012: http://colohub.com/wp-content/uploads/2012/06/blueprint4.jpg
   
 | Shared Specs        | HashFlare           | ColoHub/BTCMEQC  |
 | ------------- |:-------------:| :-----:|
