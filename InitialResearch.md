@@ -68,7 +68,9 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
   - The specs provided on HashFlare's Datacenter page match the description and specs of http://colohub.com/
   - ColoHub, owned by  Geneseo Communications INC, is a parent company to BTCMEQC specializing in miner housing - http://www.btcmeqc.com/ - It appears they use the ColoHub facility to host operations such as HashFlare's.
   - BTCMEQC's Facebook - https://www.facebook.com/Btcmeqc-1207240102691939/
-  -2701 Devils Glen Road, Bettendorf Iowa, US, 52722 -- 309-944-8002
+  - Location: 2701 Devils Glen Road, Bettendorf Iowa, US, 52722
+  - Phone: 309-944-8002
+  - Email: scott.rubins@geneseo.com
   
 | Shared Specs        | HashFlare           | ColoHub/BTCMEQC  |
 | ------------- |:-------------:| :-----:|
