@@ -81,7 +81,7 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
   - Additional tour of ColoHub/BTCMEQC - https://www.youtube.com/watch?v=d3-5JSZxXHY
  
 
-  #### Photos:
+  #### Additional Photos from HashFlare:
  - https://www.instagram.com/p/BY-RT8tA78v/?taken-by=hashcoins
  - https://www.instagram.com/p/BLGal6HB5KG/?taken-by=hashcoins
  - https://www.instagram.com/p/BIUk-ashYh-/?taken-by=hashcoins
