@@ -100,3 +100,6 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
  - Renna Reemet, Lead Developer (May have left HashCoins based on LinkedIn) - https://ee.linkedin.com/in/rreemet, support@hashcoins.com
  
  - Andrei Veressov, Attorney, Bright Law Firm - https://ee.linkedin.com/in/andrei-veressov-b535ba21
+
+
+BTC: 1JK3AGY3HTbWk9wZgPpmxCdvLvcpoMmZ9s
