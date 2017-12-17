@@ -76,17 +76,19 @@ updates.
  - *HashCоins - Blockchain technologies that work* - https://bitcointalk.org/index.php?topic=417623.0 
     (Failure to deliver mining hardware discussion included in later pages)
  - *Emercoin and Polybius are SCAM* - https://bitcointalk.org/index.php?topic=1970796.0 
+ - *HashCoins* - https://en.bitcoin.it/wiki/HashCoins
  
   
  ## HASHCOINS/HASHFLARE DETAILED TEAM INFO
  - Ivan Turygin, Founder & Chairmain - https://ee.linkedin.com/in/ivan-turygin-b6698171
- - Sergie Potapenko, Founder & CEO - https://ee.linkedin.com/in/sergei-potapenko-81998853
+ - Sergie Potapenko, Founder & CEO - https://ee.linkedin.com/in/sergei-potapenko-81998853, https://www.facebook.com/sergei.pt
  - Nikolay Pavlovskiy, CTO - https://ee.linkedin.com/in/nrpavlovskiy/en
- - Vitali Pavlov, Chief Product Officer - https://ee.linkedin.com/in/vitali-pavlov
- - Edgar Bers, Public Relations / Business Development Manager - https://ee.linkedin.com/in/vitali-pavlov
+ - Vitali Pavlov, Chief Product Officer - https://ee.linkedin.com/in/vitali-pavlov, https://www.facebook.com/thevip7, <https://twitter.com/_7_lik>
+ - Edgar Bers, Public Relations / Business Development Manager - https://ee.linkedin.com/in/vitali-pavlov,  https://www.facebook.com/bers.edgar
  - Tatjana Potapova, CFO - https://ee.linkedin.com/in/tatjana-potapova
  - Pavel Tsihhotski, Support/Community Manager - https://www.linkedin.com/in/pavel-tsihhotski-6a0027142/
  - Alexandr Gromov, Chief Marketing Officer - https://www.linkedin.com/in/alexandr-gromov-89302556/
  
  -Renna Reemet, Lead Developer (Potentially now a former employee) - https://ee.linkedin.com/in/rreemet
+ 
  -Andrei Veressov, Attorney, Bright Law Firm - https://ee.linkedin.com/in/andrei-veressov-b535ba21
