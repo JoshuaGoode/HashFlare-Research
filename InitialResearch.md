@@ -73,6 +73,7 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
   - Phone: 309-944-8002
   - Email: scott.rubins@geneseo.com
   - Older facility Blueprint from 2012: http://colohub.com/wp-content/uploads/2012/06/blueprint4.jpg
+  - HashFlare blog post detailing ColoHub's datacenter (Russian): https://geektimes.ru/company/hashflare/blog/263078/
   
 | Shared Specs        | HashFlare           | ColoHub/BTCMEQC  |
 | ------------- |:-------------:| :-----:|
@@ -102,6 +103,7 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
  - *Emercoin and Polybius are SCAM* - https://bitcointalk.org/index.php?topic=1970796.0 
  - *HashCoins* - https://en.bitcoin.it/wiki/HashCoins
  - LinkedIn message with CEO regarding December 2017 withdraw shutdown - https://www.reddit.com/r/hashflare/comments/7kczlz/i_reached_out_to_the_ceo_of_hashflare_about/
+ - HashFlare blog post detailing ColoHub's datacenter (Russian): https://geektimes.ru/company/hashflare/blog/263078/
  
   
  ## HASHCOINS/HASHFLARE DETAILED TEAM INFO
