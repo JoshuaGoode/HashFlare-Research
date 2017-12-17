@@ -43,6 +43,7 @@ updates.
  - https://www.facebook.com/projectpolybius/
 
 ## DATACENTER INFORMATION
+ #### Specs:
   - https://hashflare.io/data-center/
 
   #### Tour:
