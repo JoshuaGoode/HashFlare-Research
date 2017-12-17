@@ -36,6 +36,7 @@ updates.
  - https://hashcoins.com/management
  - https://polybius.io/#team
  - https://hashflare.io/team/
+ - List of people claiming to work for HashCoins on LinkedIn - https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%224800380%22%5D
 
 
 
@@ -80,6 +81,8 @@ updates.
  
   
  ## HASHCOINS/HASHFLARE DETAILED TEAM INFO
+ - List of people claiming to work for HashCoins on LinkedIn - https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%224800380%22%5D
+ 
  - Ivan Turygin, Founder & Chairmain - https://ee.linkedin.com/in/ivan-turygin-b6698171
  - Sergie Potapenko, Founder & CEO - https://ee.linkedin.com/in/sergei-potapenko-81998853, https://www.facebook.com/sergei.pt
  - Nikolay Pavlovskiy, CTO - https://ee.linkedin.com/in/nrpavlovskiy/en
