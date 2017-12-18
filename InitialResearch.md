@@ -69,8 +69,7 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
  
  _**According to Tim Mandell with ColoHub, HashCoins/HashFlare has no operation at ColoHub/BTCMEQC.**_
  
-~~The specs provided on HashFlare's Datacenter page match the description and specs of http://colohub.com/ in addition to pictures and videos documenting their presence at ColoHub.~~
- 
+The specs provided on HashFlare's Datacenter page match the description and specs of http://colohub.com/ prior to the MW expansion.
  
   ~~- ColoHub, owned by  Geneseo Communications INC, is a parent company to BTCMEQC specializing in miner housing - http://www.btcmeqc.com/ - It appears they use the ColoHub facility to host operations such as HashFlare's.
   - BTCMEQC's Facebook - https://www.facebook.com/Btcmeqc-1207240102691939/
@@ -79,13 +78,6 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
   - Email: scott.rubins@geneseo.com
   - Older facility Blueprint from 2012: http://colohub.com/wp-content/uploads/2012/06/blueprint4.jpg
   - HashFlare blog post detailing ColoHub's datacenter (Russian): https://geektimes.ru/company/hashflare/blog/263078/~~
-  
-~~| Shared Specs        | HashFlare           | ColoHub/BTCMEQC  |
-| ------------- |:-------------:| :-----:|
-| `POWER`     | 2MW | 2MW - Updated to 6MW |
-| `COOLING`     | Air conditioners in N+1 redundancy | 1200 Ton N+1 Chilled Water Primary-Secondary System with evaporative condenser |
-| `GENERATOR` | Diesel, 850kVA in N+1 configuration w/48 hours of fuel     |    Diesel, 850kVA in N+1 configuration w/48 hours of fuel |~~
-
 
   #### Tours:
  ~~- Tour of ColoHub/BTCMEQC - https://www.youtube.com/watch?v=d3-5JSZxXHY~~
