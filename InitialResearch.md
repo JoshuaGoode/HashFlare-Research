@@ -35,7 +35,6 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
  
  
  
- 
  ## HASHCOINS/HASHFLARE TEAM PAGES (DETAILED LIST BELOW)
  - https://hashcoins.com/management
  - https://polybius.io/#team
@@ -70,7 +69,7 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
  
  _**According to Tim Mandell with ColoHub, HashCoins/HashFlare has no operation at ColoHub/BTCMEQC.**_
  
-The specs provided on HashFlare's Datacenter page appear to copy the description and specs of http://colohub.com/ prior to the MW expansion; however, pictures on HashFlare's website show a smaller datacenter.
+~~The specs provided on HashFlare's Datacenter page appear to copy the description and specs of http://colohub.com/ prior to the MW expansion; however, pictures on HashFlare's website show a smaller datacenter.~~
  
   ~~- ColoHub, owned by  Geneseo Communications INC, is a parent company to BTCMEQC specializing in miner housing - http://www.btcmeqc.com/ - It appears they use the ColoHub facility to host operations such as HashFlare's.~~
   ~~- BTCMEQC's Facebook - https://www.facebook.com/Btcmeqc-1207240102691939/~~
@@ -85,7 +84,7 @@ The specs provided on HashFlare's Datacenter page appear to copy the description
   
   ~~- This video uses the above footage of ColoHub and discusses that HashFlare has an operation there - https://www.youtube.com/watch?v=ISd0m9R-srw~~
   
-  - *UPDATE* ColoHub represntative posts that the third party video is illegitimate - https://bitcointalk.org/index.php?topic=2610217.msg26566000#msg26566000
+  - *UPDATE* Tim, ColoHub CMO, posts that the third party video is illegitimate - https://bitcointalk.org/index.php?topic=2610217.msg26566000#msg26566000
  
 
   #### Additional Photos from HashFlare:
