@@ -69,7 +69,7 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
  
  _**According to Tim Mandell with ColoHub, HashCoins/HashFlare has no operation at ColoHub/BTCMEQC.**_
  
-The specs provided on HashFlare's Datacenter page match the description and specs of http://colohub.com/ prior to the MW expansion.
+The specs provided on HashFlare's Datacenter page appear to copy the description and specs of http://colohub.com/ prior to the MW expansion.
  
   ~~- ColoHub, owned by  Geneseo Communications INC, is a parent company to BTCMEQC specializing in miner housing - http://www.btcmeqc.com/ - It appears they use the ColoHub facility to host operations such as HashFlare's.~~
   ~~- BTCMEQC's Facebook - https://www.facebook.com/Btcmeqc-1207240102691939/~~
@@ -88,7 +88,7 @@ The specs provided on HashFlare's Datacenter page match the description and spec
  
 
   #### Additional Photos from HashFlare:
-HashFlare has recently shared multiple images on their instagram. It appears to be a smaller operation from the one at ColoHub and mostly houses what appear to be ETH miners.
+HashFlare has recently shared multiple images on their instagram. It appears to be a smaller operation ~~from the one at ColoHub~~ and mostly houses what appear to be ETH miners.
  - https://www.instagram.com/p/BY-RT8tA78v/?taken-by=hashcoins
  - https://www.instagram.com/p/BLGal6HB5KG/?taken-by=hashcoins
  - https://www.instagram.com/p/BIUk-ashYh-/?taken-by=hashcoins
