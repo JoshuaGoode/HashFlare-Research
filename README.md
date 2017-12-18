@@ -11,6 +11,7 @@ Outside of collecting available info related to their current operation and capa
  - Document current withdraw issues (December 2017) supposedly due to block.io and analyze their cause. Review HashFlare's response and elicit one from block.io.
 
 
+#### Misc
 - Discuss on Reddit: https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins_hashflare_contact_history_and_data/
 - Find me on HashFlare related Discords (I do not mod/run these): https://discord.gg/vtGH4Wf & https://discord.gg/BjRrnZj
 - Twitter: https://twitter.com/@joshuagoode
