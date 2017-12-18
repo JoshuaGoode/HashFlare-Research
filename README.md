@@ -5,6 +5,11 @@ Checkout InititalResearch for base info.
 
 Outside of collecting available info related to their current operation and capabilites, I am analyzing HashFlare's distribution wallets.  Reach me on twitter if you want to assist. https://twitter.com/@joshuagoode
 
+#### Other goals:
+ - Piece together company history
+ - Review and report past and current controversies
+ - Document current withdraw issues (December 2017) supposedly due to block.io and analyze their cause. Review HashFlare's response and elicit one from block.io.
+
 
 - Discuss on Reddit: https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins_hashflare_contact_history_and_data/
 - Find me on HashFlare related Discords (I do not mod/run these): https://discord.gg/vtGH4Wf & https://discord.gg/BjRrnZj
