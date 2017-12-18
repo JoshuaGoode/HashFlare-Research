@@ -7,8 +7,9 @@ Outside of collecting available info related to their current operation and capa
 
 #### Other goals:
  - Piece together company history
- - Review and report past and current controversies
+ - Review and report past and current controversies across HashCoins, HashFlare, and Polybius operations
  - Document current withdraw issues (December 2017) supposedly due to block.io and analyze their cause. Review HashFlare's response and elicit one from block.io.
+ - Speculate required hash power to operate based on publicly shared contract data
 
 
 #### Misc
