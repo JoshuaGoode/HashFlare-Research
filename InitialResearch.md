@@ -99,6 +99,7 @@ HashFlare has recently shared multiple images on their instagram. It appears to 
  
 
 ## NOTABLE DISCUSSIONS/ARTICLES
+ - *HashFlare 2.0: to infinity and beyond* https://cryptor.net/kriptovalyuty/hashflare-20-v-beskonechnost-i-dalshe
  - *The Risks of Mining Bitcoin on HashFlare* - https://www.anythingcrypto.com/guides/risks-of-mining-bitcoin-on-hashflare
  - *HashFlare.io Review – HashFlare’s Reputation is Plummeting* - https://www.scambitcoin.com/hashflare-io/
  - *HashCоins - Blockchain technologies that work* - https://bitcointalk.org/index.php?topic=417623.0 
@@ -122,7 +123,7 @@ HashFlare has recently shared multiple images on their instagram. It appears to 
  - Pavel Tsihhotski, Support/Community Manager - https://www.linkedin.com/in/pavel-tsihhotski-6a0027142/
  - Alexandr Gromov, Chief Marketing Officer - https://www.linkedin.com/in/alexandr-gromov-89302556/, sales@hashcoins.com
  
- - Renna Reemet, Lead Developer (May have left HashCoins based on LinkedIn) - https://ee.linkedin.com/in/rreemet, support@hashcoins.com
+ - Renna Reemet, Lead Developer (Left HashCoins -- Confirmed via LinkedIn and HashFlare 2.0 press release.) - https://ee.linkedin.com/in/rreemet, support@hashcoins.com
  
  - Andrei Veressov, Attorney, Bright Law Firm - https://ee.linkedin.com/in/andrei-veressov-b535ba21
 
