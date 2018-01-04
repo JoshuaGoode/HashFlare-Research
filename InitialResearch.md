@@ -21,7 +21,7 @@ Discuss on Reddit - https://www.reddit.com/r/hashflare/comments/7kcng9/hashcoins
  - Past legal addresses: Teaduspargi tn 8, 12618 & Rännaku pst 12, 10917
 
  ##### HashFlare OÜ
- - https://hashcoins.com
+ - https://hashflare.io/
  - info@hashflare.io
  - +44 131 564 0074
  - Tartu maantee 43, 10128, Tallinn, Estonia
